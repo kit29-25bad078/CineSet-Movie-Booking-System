@@ -1,0 +1,9 @@
+{
+"name":"CineSet Movie Booking",
+"short_name":"CineSet",
+"start_url":"/",
+"display":"standalone",
+"background_color":"#08090b",
+"theme_color":"#e9b85f",
+"icons":[]
+}
